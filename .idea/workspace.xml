@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7bb5cd1c-8452-4b7d-90b7-13160ea6ffbe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/JavaProgrammingLanguge/src/Exercise/AppCurrencyConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaProgrammingLanguge/src/Exercise/DesignMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaProgrammingLanguge/src/Exercise/DisplayHello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaProgrammingLanguge/src/Exercise/DisplayPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaProgrammingLanguge/src/Exercise/PrimeSmaller100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaProgrammingLanguge/src/Exercise/ReadingNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Bài Thi/Câu 4/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Bài Thi/Câu 4/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TinLeCodeGym" beforeDir="false" />
     </list>
@@ -30,8 +36,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -77,16 +83,17 @@
       <updated>1551061521335</updated>
       <workItem from="1551061524771" duration="149000" />
       <workItem from="1551062228208" duration="239000" />
+      <workItem from="1551063437191" duration="275000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="388000" />
+    <option name="totallyTimeSpent" value="663000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="23" y="23" width="1257" height="721" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25349793" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25761318" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -103,7 +110,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3290938" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
