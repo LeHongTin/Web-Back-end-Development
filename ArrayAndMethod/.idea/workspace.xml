@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba939b7b-3ef7-4dd3-9f57-5f4416f0b50d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Exercise/CoutCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise/DeleteElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise/FindMaxDoubleArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise/FindMinArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise/PoolingArrayt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise/SumDiagonalOfMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaProgrammingLanguge/src/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaProgrammingLanguge/src/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaProgrammingLanguge/src/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaProgrammingLanguge/src/.idea/src.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaProgrammingLanguge/src/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaProgrammingLanguge/src/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/TestTV.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise/AddElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise/AddElement.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,7 +12,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Exercise/AddElement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -67,6 +61,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -95,7 +90,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -211,16 +205,17 @@
       <workItem from="1551063713028" duration="262000" />
       <workItem from="1551064111727" duration="6431000" />
       <workItem from="1551169343601" duration="159000" />
+      <workItem from="1551339257958" duration="226000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6852000" />
+    <option name="totallyTimeSpent" value="7078000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="59" y="34" width="1184" height="713" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25569177" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26007006" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -256,13 +251,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Practices/VD.java" />
-    <entry file="file://$PROJECT_DIR$/src/Exercise/AddElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercise/GoolingArray.java" />
     <entry file="file://$PROJECT_DIR$/src/Exercise/FindMaxDoubleArray.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -310,6 +298,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise/AddElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
         </state>
       </provider>
     </entry>
