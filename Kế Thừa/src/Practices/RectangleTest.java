@@ -11,6 +11,6 @@ public class RectangleTest {
         Rectangle rectangle3 = new Rectangle(2.5, 3.8, "orange", true);
         System.out.println(rectangle3);
         System.out.println("Perimeter rectangle2 is : " + rectangle2.getPerimeter());
-        System.out.println("Area rectangle2 is : " + rectangle2.getArea());
+        System.out.printf("\nArea rectangle2 is : %5.2f", rectangle2.getArea());
     }
 }
