@@ -14,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -54,6 +54,9 @@
         <option value="$PROJECT_DIR$/src/Exercise/MoveablePoint/Point.java" />
         <option value="$PROJECT_DIR$/src/Exercise/MoveablePoint/MoveablePoint.java" />
         <option value="$PROJECT_DIR$/src/Exercise/MoveablePoint/MoveableTest.java" />
+        <option value="$PROJECT_DIR$/src/Exercise/DesignTriangle/Shape.java" />
+        <option value="$PROJECT_DIR$/src/Exercise/DesignTriangle/TriangleTest.java" />
+        <option value="$PROJECT_DIR$/src/Exercise/DesignTriangle/Triangle.java" />
       </list>
     </option>
   </component>
@@ -127,7 +130,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554175060047" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554179015745" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -144,20 +147,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MoveableTest">
-    <configuration name="CylinderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practices.CylinderTest" />
-      <module name="Kế Thừa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practices.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TriangleTest">
     <configuration name="CylinderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercise.CircleAndCylinder.CylinderTest" />
       <module name="Kế Thừa" />
@@ -223,13 +213,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TriangleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise.DesignTriangle.TriangleTest" />
+      <module name="Kế Thừa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise.DesignTriangle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TriangleTest" />
         <item itemvalue="Application.MoveableTest" />
         <item itemvalue="Application.Point3DTest" />
         <item itemvalue="Application.Point2DTest" />
         <item itemvalue="Application.RectangleTest" />
-        <item itemvalue="Application.CylinderTest" />
       </list>
     </recent_temporary>
   </component>
@@ -247,16 +250,17 @@
       <workItem from="1551839753129" duration="1201000" />
       <workItem from="1554091619157" duration="3222000" />
       <workItem from="1554169385312" duration="5200000" />
+      <workItem from="1554176673008" duration="1760000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15908000" />
+    <option name="totallyTimeSpent" value="17668000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="31" y="34" width="1210" height="747" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25684932" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26113012" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -529,6 +533,39 @@
             <element signature="e#646#647#0" expanded="true" />
             <element signature="e#689#690#0" expanded="true" />
             <element signature="e#725#726#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise/DesignTriangle/TriangleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="70" selection-start-line="7" selection-start-column="70" selection-end-line="7" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise/DesignTriangle/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+          <folding>
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#545#546#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise/DesignTriangle/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+          <folding>
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
           </folding>
         </state>
       </provider>
