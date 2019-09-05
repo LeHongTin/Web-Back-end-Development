@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<h2>Sach</h2>
+<table>
+    <tr>
+        <th>STT</th>
+        <th>Ten sach</th>
+        <th>The Loai</th>
+        <th>Nam Xb</th>
+        <th>Tac gia</th>
+    </tr>
+    <tr th:each="sach,row:${sachs}">
+        <td th:text="${row.count}"></td>
+        <td th:text="${sach.getTen()}"></td>
+        <td th:text="${sach.getTheloai()}"></td>
+        <td th:text="${sach.getNamxuatban()}"></td>
+        <td th:text="${sach.getTacgia}"></td>
+
+    </tr>
+</table>
+</body>
+</html>

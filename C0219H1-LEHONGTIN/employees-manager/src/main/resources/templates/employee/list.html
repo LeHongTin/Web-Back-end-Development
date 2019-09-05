@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>home</title>
+</head>
+<body>
+<h2><a th:href="@{/employees/list}" style="text-decoration: none; color: blue">Employee</a></h2>
+<div>
+    <span th:text="${message}"></span>
+</div>
+
+
+<p>
+    <a th:href="@{/employees/create}">Add new employee</a>
+</p>
+<p>
+    <form action="/employees/find" method="post">
+        <input type="text" name="search">
+        <input type="submit">
+    </form>
+</p>
+<table border="1">
+
+    <tr>
+        <th style="color: chocolate">Ma nhan vien</th>
+        <th width="100px" style="color: chocolate">Nhom nhan vien</th>
+        <th width="100px" style="color: chocolate">Ho Ten</th>
+        <th width="300px" style="color: chocolate">Gioi tinh</th>
+        <th width="100px" style="color: chocolate">So dien thoai</th>
+        <th width="100px" style="color: chocolate">Chuc nang</th>
+    </tr>
+    <tr th:each="employee:${employees}">
+        <td th:text="${employee.getId()}"></td>
+        <td th:text="${employee.getGroup()}"></td>
+        <td th:text="${employee.getName()}"></td>
+        <td th:text="${employee.getSex()}"></td>
+        <td th:text="${employee.getPhoneNumber()}"></td>
+        <td><a th:href="@{/employees/edit/__${employee.id}__}" onclick="">edit</a>
+            <a th:href="@{/employees/delete/__${employee.id}__}" onclick=""> delete</a>
+        </td>
+    </tr>
+</table>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

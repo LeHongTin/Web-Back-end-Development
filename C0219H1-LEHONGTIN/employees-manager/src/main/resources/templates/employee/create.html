@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<body>
+<h3>Create Customer</h3>
+<div id="form">
+    <form action="#" th:action="@{/employees/create}" th:object="${employee}"
+          method="POST" novalidate="novalidate">
+        <input type="hidden" th:field="*{id}"/>
+        <!--<div>-->
+            <!--<label>ma nhan vien</label>-->
+            <!--<input type="text" th:field="*{id}"/>-->
+            <!--<td th:if="${#fields.hasErrors('id')}" th:errors="*{id}">Id Error</td>-->
+        <!--</div>-->
+        <div>
+            <label>nhom nhan vien</label>
+            <input type="text" th:field="*{group}"/>
+            <td th:if="${#fields.hasErrors('group')}" th:errors="*{group}">Group Error</td>
+        </div>
+        <div>
+            <label>Ho ten</label>
+            <input type="text" th:field="*{name}"/>
+            <td th:if="${#fields.hasErrors('name')}" th:errors="*{name}">Name Error</td>
+        </div>
+        <div>
+            <label>Ngay sinh</label>
+            <input type="text" th:field="*{birthday}"/>
+            <td th:if="${#fields.hasErrors('birthday')}" th:errors="*{birthday}">Birthday Error</td>
+        </div>
+        <div>
+            <label>gioi tinh</label>
+            <input type="text" th:field="*{sex}"/>
+            <td th:if="${#fields.hasErrors('sex')}" th:errors="*{sex}">Sex Error</td>
+        </div>
+        <div>
+            <label>So dien thoai</label>
+            <input type="text" th:field="*{phoneNumber}"/>
+            <td th:if="${#fields.hasErrors('phoneNumber')}" th:errors="*{phoneNumber}">PhoneNumber Error</td>
+        </div>
+        <div>
+            <label>So CMND</label>
+            <input type="text" th:field="*{soCMND}"/>
+            <td th:if="${#fields.hasErrors('soCMND')}" th:errors="*{soCMND}">SoCMND Error</td>
+        </div>
+        <div>
+            <label>Email</label>
+            <input type="email" th:field="*{email}"/>
+            <td th:if="${#fields.hasErrors('email')}" th:errors="*{email}">Email Error</td>
+        </div>
+        <div>
+            <label>Dia chi</label>
+            <input type="text" th:field="*{address}"/>
+            <td th:if="${#fields.hasErrors('address')}" th:errors="*{address}">Address Error</td>
+        </div>
+        <input type="submit" value="Them">
+    </form>
+</div>
+</body>
+</html>

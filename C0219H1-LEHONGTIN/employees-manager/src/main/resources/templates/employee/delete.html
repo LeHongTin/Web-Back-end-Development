@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<body>
+<h3>Remove Customer</h3>
+<div id="form">
+    <form th:action="@{/employees/delete}" th:object="${employee}"
+          method="POST">
+        <div>
+            <label>Ma nhan vien : </label>
+            <span th:text="${employee.id}"></span>
+        </div>
+        <div>
+            <label>Group</label>
+            <span th:text="${employee.group}"></span>
+        </div>
+        <div>
+            <label>Ho ten</label>
+            <span th:text="${employee.name}"></span>
+        </div>
+
+        <div>
+            <label>Ngay sinh</label>
+            <span th:text="${employee.birthday}"></span>
+        </div>
+        <div>
+            <label>Gioi tinh</label>
+            <span th:text="${employee.sex}"></span>
+        </div>
+        <div>
+            <label>So dien thoai</label>
+            <span th:text="${employee.phoneNumber}"></span>
+        </div>
+        <div>
+            <label>So CMND</label>
+            <span th:text="${employee.soCMND}"></span>
+        </div>
+        <div>
+            <label>Email</label>
+            <span th:text="${employee.email}"></span>
+        </div>
+        <div>
+            <label>Dia chi</label>
+            <span th:text="${employee.address}"></span>
+        </div>
+        <input type="submit" value="Xoa">
+    </form>
+</div>
+</body>
+</html>

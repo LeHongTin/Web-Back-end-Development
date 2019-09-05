@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>home</title>
+</head>
+<body>
+<h2><a th:href="@{/customers/list}" style="text-decoration: none; color: blue">Customers</a></h2>
+<div>
+    <span th:text="${message}"></span>
+</div>
+
+
+<p>
+    <a th:href="@{/customers/create}">Add new customer</a>
+</p>
+<p>
+    <form action="/customers/find" method="post">
+        <input type="text" name="search">
+        <input type="submit">
+    </form>
+</p>
+<table border="1">
+
+    <tr>
+        <th style="color: chocolate">STT</th>
+        <th width="100px" style="color: chocolate">Ten</th>
+        <th width="100px" style="color: chocolate">Tuoi</th>
+        <th width="300px" style="color: chocolate">Email</th>
+        <th width="100px" style="color: chocolate">Dia chi</th>
+        <th width="100px" style="color: chocolate">Edit</th>
+        <th width="100px" style="color: chocolate">Delete</th>
+    </tr>
+    <tr th:each="customer,row:${customers}">
+        <span><input type="hidden" th:value="${customer.getId()}"></span>
+        <td th:text="${row.count}"></td>
+        <td th:text="${customer.getName()}"></td>
+        <td th:text="${customer.getAge()}"></td>
+        <td th:text="${customer.getEmail()}"></td>
+        <td th:text="${customer.getAddress()}"></td>
+        <td><a th:href="@{/customers/edit/__${customer.id}__}">edit</a></td>
+        <td><a th:href="@{/customers/delete/__${customer.id}__}" onclick=""> delete</a></td>
+    </tr>
+</table>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

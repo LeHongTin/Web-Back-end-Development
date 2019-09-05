@@ -1,0 +1,997 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Gradle : com.codegym : customer-manager-1.0-SNAPSHOT.war (exploded)" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="77264ee3-8cd0-49a6-b62f-49c7e7b4854e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../11.WebApplicationOverView/currency_converter/src/ConverterServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../12.WebApplicationOverView/customer/.idea/libraries/WEB_INF.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../12.WebApplicationOverView/customer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../12.WebApplicationOverView/customer/src/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../12.WebApplicationOverView/customer/src/service/ListCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18.SpringDataRepository/cornect_database/src/main/java/com/codegym/cornect_database/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18.SpringDataRepository/cornect_database/src/main/java/com/codegym/cornect_database/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18.SpringDataRepository/cornect_database/src/main/java/com/codegym/cornect_database/repository/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18.SpringDataRepository/cornect_database/src/main/java/com/codegym/cornect_database/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18.SpringDataRepository/cornect_database/src/main/java/com/codegym/cornect_database/service/impl/EmployeeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baithi/employees-manager/src/main/java/com/codegym/employeesmanager/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baithi/employees-manager/src/main/java/com/codegym/employeesmanager/reponsitory/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baithi/employees-manager/src/main/java/com/codegym/employeesmanager/service/EmployeeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baithi/employees-manager/src/main/resources/templates/asdf.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baithi/employees-manager/src/main/resources/templates/employee/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baithi/employees-manager/src/main/resources/templates/employee/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baithi/employees-manager/src/main/resources/templates/employee/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baithi/employees-manager/src/main/resources/templates/employee/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/AdvancedObjectOrientedDesign.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/out/production/AdvancedObjectOrientedDesign/META-INF/AdvancedObjectOrientedDesign.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/out/production/AdvancedObjectOrientedDesign/exercise/CircleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/out/production/AdvancedObjectOrientedDesign/exercise/Colorable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/out/production/AdvancedObjectOrientedDesign/exercise/ColorableTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/out/production/AdvancedObjectOrientedDesign/exercise/Resizeable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/out/production/AdvancedObjectOrientedDesign/practices/AbstractAndInterface/AbstractAndInterfaceTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/out/production/AdvancedObjectOrientedDesign/practices/AbstractAndInterface/animal/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/out/production/AdvancedObjectOrientedDesign/practices/AbstractAndInterface/animal/Chicken.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/out/production/AdvancedObjectOrientedDesign/practices/AbstractAndInterface/animal/Tiger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/out/production/AdvancedObjectOrientedDesign/practices/AbstractAndInterface/edible/Edible.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/out/production/AdvancedObjectOrientedDesign/practices/AbstractAndInterface/fruit/Apple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/out/production/AdvancedObjectOrientedDesign/practices/AbstractAndInterface/fruit/Fruit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/out/production/AdvancedObjectOrientedDesign/practices/AbstractAndInterface/fruit/Orange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/out/production/AdvancedObjectOrientedDesign/practices/interfaceComparator/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/out/production/AdvancedObjectOrientedDesign/practices/interfaceComparator/ComparableCircle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/out/production/AdvancedObjectOrientedDesign/practices/interfaceComparator/ComparableCircleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/out/production/AdvancedObjectOrientedDesign/practices/interfaceComparator/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/out/production/AdvancedObjectOrientedDesign/practices/interfaceComparator/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/out/production/AdvancedObjectOrientedDesign/practices/interfaceComparator/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/src/exercise/CircleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/src/exercise/Colorable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/src/exercise/ColorableTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/src/exercise/Resizeable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/src/practices/AbstractAndInterface/AbstractAndInterfaceTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/src/practices/AbstractAndInterface/animal/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/src/practices/AbstractAndInterface/animal/Chicken.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/src/practices/AbstractAndInterface/animal/Tiger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/src/practices/AbstractAndInterface/edible/Edible.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/src/practices/AbstractAndInterface/fruit/Apple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/src/practices/AbstractAndInterface/fruit/Fruit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/src/practices/AbstractAndInterface/fruit/Orange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/src/practices/interfaceComparator/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/src/practices/interfaceComparator/ComparableCircle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/src/practices/interfaceComparator/ComparableCircleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/src/practices/interfaceComparator/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/src/practices/interfaceComparator/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdvancedObjectOrientedDesign/src/practices/interfaceComparator/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ArrayAndMethod/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ArrayAndMethod/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ArrayAndMethod/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ArrayAndMethod/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ArrayAndMethod/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ArrayAndMethod/ArrayAndMethod.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ArrayAndMethod/out/production/ArrayAndMethod/Exercise/AddElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ArrayAndMethod/out/production/ArrayAndMethod/Exercise/CoutCharacter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ArrayAndMethod/out/production/ArrayAndMethod/Exercise/DeleteElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ArrayAndMethod/out/production/ArrayAndMethod/Exercise/FindMaxDoubleArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ArrayAndMethod/out/production/ArrayAndMethod/Exercise/FindMinArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ArrayAndMethod/out/production/ArrayAndMethod/Exercise/PoolingArrayt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ArrayAndMethod/out/production/ArrayAndMethod/META-INF/ArrayAndMethod.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ArrayAndMethod/out/production/ArrayAndMethod/Practices/ChangeTemprature.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ArrayAndMethod/out/production/ArrayAndMethod/Practices/FindMinArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ArrayAndMethod/out/production/ArrayAndMethod/Practices/FindValueInArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ArrayAndMethod/out/production/ArrayAndMethod/Practices/ReverseElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ArrayAndMethod/src/Exercise/AddElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ArrayAndMethod/src/Exercise/CoutCharacter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ArrayAndMethod/src/Exercise/DeleteElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ArrayAndMethod/src/Exercise/FindMaxDoubleArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ArrayAndMethod/src/Exercise/FindMinArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ArrayAndMethod/src/Exercise/PoolingArrayt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ArrayAndMethod/src/Exercise/SumDiagonalOfMatrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ArrayAndMethod/src/Practices/ChangeTemprature.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ArrayAndMethod/src/Practices/FindMinArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ArrayAndMethod/src/Practices/FindValueInArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ArrayAndMethod/src/Practices/ReverseElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassAndObject/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassAndObject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassAndObject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassAndObject/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassAndObject/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassAndObject/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassAndObject/ClassAndObject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassAndObject/out/production/ClassAndObject/META-INF/ClassAndObject.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassAndObject/out/production/ClassAndObject/Practices/Fan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassAndObject/out/production/ClassAndObject/Practices/QuadraticEquation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassAndObject/out/production/ClassAndObject/Practices/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassAndObject/out/production/ClassAndObject/Practices/StopWatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassAndObject/src/Practices/Fan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassAndObject/src/Practices/QuadraticEquation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassAndObject/src/Practices/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassAndObject/src/Practices/StopWatch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/Database.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/out/production/Database/Exercise/MyList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/out/production/Database/Exercise/MyListTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/out/production/Database/META-INF/Database.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/out/production/Database/Practices/MyLinkedList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/out/production/Database/Practices/MyLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/out/production/Database/Practices/MyLinkedListTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/out/production/Database/Practices/MyList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/out/production/Database/Practices/MyListTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/src/Exercise/MyLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/src/Exercise/MyList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/src/Exercise/MyListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/src/Practices/MyLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/src/Practices/MyLinkedListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/src/Practices/MyList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/src/Practices/MyListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProgrammingLanguge/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProgrammingLanguge/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProgrammingLanguge/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProgrammingLanguge/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProgrammingLanguge/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProgrammingLanguge/JavaProgrammingLanguge.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProgrammingLanguge/src/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProgrammingLanguge/src/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProgrammingLanguge/src/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProgrammingLanguge/src/.idea/src.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProgrammingLanguge/src/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProgrammingLanguge/src/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProgrammingLanguge/src/Exercise/AppCurrencyConversion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProgrammingLanguge/src/Exercise/DesignMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProgrammingLanguge/src/Exercise/DisplayHello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProgrammingLanguge/src/Exercise/DisplayPrime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProgrammingLanguge/src/Exercise/PrimeSmaller100.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProgrammingLanguge/src/Exercise/ReadingNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProgrammingLanguge/src/Practices/CheckPrime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProgrammingLanguge/src/Practices/DaysOfMonth.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProgrammingLanguge/src/Practices/DesignMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProgrammingLanguge/src/Practices/FindUCLN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProgrammingLanguge/src/Practices/FirstEquation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProgrammingLanguge/src/Practices/LeapYear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProgrammingLanguge/src/Practices/MBI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProgrammingLanguge/src/Practices/SystemTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProgrammingLanguge/src/Practices/UseOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProgrammingLanguge/src/Practices/UseVariables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/Kế Thừa.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/out/production/Kế Thừa/Exercise/CircleAndCylinder/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/out/production/Kế Thừa/Exercise/CircleAndCylinder/CircleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/out/production/Kế Thừa/Exercise/CircleAndCylinder/Cylinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/out/production/Kế Thừa/Exercise/CircleAndCylinder/CylinderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/out/production/Kế Thừa/Exercise/DesignTriangle/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/out/production/Kế Thừa/Exercise/DesignTriangle/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/out/production/Kế Thừa/Exercise/DesignTriangle/TriangleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/out/production/Kế Thừa/Exercise/MoveablePoint/MoveablePoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/out/production/Kế Thừa/Exercise/MoveablePoint/MoveableTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/out/production/Kế Thừa/Exercise/MoveablePoint/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/out/production/Kế Thừa/Exercise/Point2dAndPoint3d/Point2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/out/production/Kế Thừa/Exercise/Point2dAndPoint3d/Point2DTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/out/production/Kế Thừa/Exercise/Point2dAndPoint3d/Point3D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/out/production/Kế Thừa/Exercise/Point2dAndPoint3d/Point3DTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/out/production/Kế Thừa/META-INF/Kế Thừa.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/out/production/Kế Thừa/Practices/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/out/production/Kế Thừa/Practices/CircleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/out/production/Kế Thừa/Practices/Cylinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/out/production/Kế Thừa/Practices/CylinderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/out/production/Kế Thừa/Practices/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/out/production/Kế Thừa/Practices/RectangleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/out/production/Kế Thừa/Practices/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/out/production/Kế Thừa/Practices/ShapeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/out/production/Kế Thừa/Practices/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/out/production/Kế Thừa/Practices/SquareTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/out/production/Kế Thừa/Reading/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/out/production/Kế Thừa/Reading/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/out/production/Kế Thừa/Reading/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/src/Exercise/CircleAndCylinder/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/src/Exercise/CircleAndCylinder/CircleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/src/Exercise/CircleAndCylinder/Cylinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/src/Exercise/CircleAndCylinder/CylinderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/src/Exercise/DesignTriangle/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/src/Exercise/DesignTriangle/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/src/Exercise/DesignTriangle/TriangleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/src/Exercise/MoveablePoint/MoveablePoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/src/Exercise/MoveablePoint/MoveableTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/src/Exercise/MoveablePoint/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/src/Exercise/Point2dAndPoint3d/Point2D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/src/Exercise/Point2dAndPoint3d/Point2DTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/src/Exercise/Point2dAndPoint3d/Point3D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/src/Exercise/Point2dAndPoint3d/Point3DTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/src/Practices/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/src/Practices/CircleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/src/Practices/Cylinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/src/Practices/CylinderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/src/Practices/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/src/Practices/RectangleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/src/Practices/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/src/Practices/ShapeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/src/Practices/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/src/Practices/SquareTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kế Thừa/src/Reading/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Wed/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Wed/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Wed/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Wed/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Wed/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Wed/Wed.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/out/production/untitled/ChuNhat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/out/production/untitled/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/out/production/untitled/META-INF/untitled.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/out/production/untitled/MyClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/out/production/untitled/TV.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/out/production/untitled/TestTV.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/src/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/src/MyClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/src/TestTV.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/untitled.iml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/edit.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="7" selection-start-line="18" selection-start-column="13" selection-end-line="31" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/create.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/AppConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="19" column="82" selection-start-line="19" selection-start-column="82" selection-end-line="19" selection-end-column="82" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/model/Customer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="410">
+              <caret line="44" column="5" lean-forward="true" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+              <folding>
+                <element signature="e#394#395#0" expanded="true" />
+                <element signature="e#419#420#0" expanded="true" />
+                <element signature="e#452#453#0" expanded="true" />
+                <element signature="e#480#481#0" expanded="true" />
+                <element signature="e#510#511#0" expanded="true" />
+                <element signature="e#537#538#0" expanded="true" />
+                <element signature="e#577#578#0" expanded="true" />
+                <element signature="e#609#610#0" expanded="true" />
+                <element signature="e#640#641#0" expanded="true" />
+                <element signature="e#669#670#0" expanded="true" />
+                <element signature="e#711#712#0" expanded="true" />
+                <element signature="e#745#746#0" expanded="true" />
+                <element signature="e#778#779#0" expanded="true" />
+                <element signature="e#809#810#0" expanded="true" />
+                <element signature="e#855#856#0" expanded="true" />
+                <element signature="e#893#894#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/service/CustomerService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/service/CustomerServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1097#1098#0" expanded="true" />
+                <element signature="e#1137#1138#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/controller/CustomerController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="383">
+              <caret line="57" column="29" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/delete.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.3.17.RELEASE/a3d40d84150579049509139f350ba7908b5448d2/spring-webmvc-4.3.17.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/support/RedirectAttributes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="59" column="17" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/Dispatcher-servlet.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codegym/model/Customer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codegym/service/CustomerService.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/edit.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/view.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codegym/service/CustomerServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codegym/ApplicationContextAware.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codegym/AppConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/layout.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codegym/controller/CustomerController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/create.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/delete.html" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1245" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="customer-manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customer-manager" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="customer-manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customer-manager" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="customer-manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customer-manager" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="customer-manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customer-manager" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="customer-manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customer-manager" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="codegym" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="customer-manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customer-manager" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="codegym" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="customer-manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customer-manager" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="codegym" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="customer-manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customer-manager" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="codegym" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="customer-manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customer-manager" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="customer-manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customer-manager" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="customer-manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customer-manager" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557997794437" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.codegym" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8.5.401" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.401" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : com.codegym : customer-manager-1.0-SNAPSHOT.war (exploded)">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_customer-manager_3" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59703" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : com.codegym : customer-manager-1.0-SNAPSHOT.war (exploded)" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77264ee3-8cd0-49a6-b62f-49c7e7b4854e" name="Default Changelist" comment="" />
+      <created>1557937421631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557937421631</updated>
+      <workItem from="1557937423849" duration="12701000" />
+      <workItem from="1558083657875" duration="2264000" />
+      <workItem from="1558160025012" duration="6100000" />
+      <workItem from="1558922422480" duration="1263000" />
+      <workItem from="1558925414185" duration="5497000" />
+      <workItem from="1559006980283" duration="5661000" />
+      <workItem from="1560136855392" duration="108000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="33594000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26655897" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329927" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32876712" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.329927" />
+      <window_info anchor="bottom" id="Application Servers" order="8" weight="0.329927" />
+      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info anchor="bottom" id="Version Control" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.24937657" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="0" weight="0.329927" />
+      <window_info anchor="bottom" id="Application Servers" order="1" weight="0.329927" />
+      <window_info anchor="bottom" id="Spring" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="6" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Message" order="10" />
+      <window_info anchor="bottom" id="Find" order="11" />
+      <window_info anchor="bottom" id="Run" order="12" visible="true" weight="0.329927" />
+      <window_info anchor="bottom" id="Debug" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="14" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="15" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="16" />
+      <window_info anchor="right" id="Maven" order="0" />
+      <window_info anchor="right" id="Palette" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Gradle" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/ApplicationContextAware.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.17.RELEASE/ce408bf1c8fae3399207c82cd70446ef90ff1f28/spring-context-4.3.17.RELEASE-sources.jar!/org/springframework/context/ApplicationContextAware.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="58" column="51" selection-start-line="58" selection-start-column="51" selection-end-line="58" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.3.17.RELEASE/5c37229b7d8d1f86296e133a00b8b2ffc24b6bc1/spring-beans-4.3.17.RELEASE-sources.jar!/org/springframework/beans/factory/Aware.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/web-forms.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="556" column="22" selection-start-line="556" selection-start-column="22" selection-end-line="556" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="211" column="6" selection-start-line="211" selection-start-column="6" selection-end-line="211" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="46" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/view.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/edit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="7" selection-start-line="18" selection-start-column="13" selection-end-line="31" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/create.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/AppConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="19" column="82" selection-start-line="19" selection-start-column="82" selection-end-line="19" selection-end-column="82" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/delete.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.3.17.RELEASE/a3d40d84150579049509139f350ba7908b5448d2/spring-webmvc-4.3.17.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/support/RedirectAttributes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="59" column="17" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/model/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="44" column="5" lean-forward="true" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+          <folding>
+            <element signature="e#394#395#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#537#538#0" expanded="true" />
+            <element signature="e#577#578#0" expanded="true" />
+            <element signature="e#609#610#0" expanded="true" />
+            <element signature="e#640#641#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+            <element signature="e#711#712#0" expanded="true" />
+            <element signature="e#745#746#0" expanded="true" />
+            <element signature="e#778#779#0" expanded="true" />
+            <element signature="e#809#810#0" expanded="true" />
+            <element signature="e#855#856#0" expanded="true" />
+            <element signature="e#893#894#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/service/CustomerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/service/CustomerServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1097#1098#0" expanded="true" />
+            <element signature="e#1137#1138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/controller/CustomerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="57" column="29" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Gradle : com.codegym : customer-manager-1.0-SNAPSHOT.war (exploded)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web Gradle : customer-manager-1.0-SNAPSHOT.war (customer-manager_main)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8.0_201</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web Gradle : customer-manager-1.0-SNAPSHOT.war|customer-manager_main|customer-manager</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: commons-logging:commons-logging:1.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

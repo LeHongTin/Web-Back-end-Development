@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
+<div id="form">
+    <form action="/employees/edit" th:object="${employee}" method="POST">
+        <div>
+            <label>Ma nhan vien</label>
+            <input type="text" th:field="*{id}"/>
+        </div>
+        <div>
+            <label>Group</label>
+            <input type="text" th:field="*{group}"/>
+        </div>
+        <div>
+            <label>Ho ten</label>
+            <input type="text" th:field="*{name}"/>
+        </div>
+
+        <div>
+            <label>Ngay sinh</label>
+            <input type="text" th:field="*{birthday}"/>
+        </div>
+        <div>
+            <label>Gioi tinh</label>
+            <input type="text" th:field="*{sex}"/>
+        </div>
+        <div>
+            <label>So dien thoai</label>
+            <input type="text" th:field="*{phoneNumber}"/>
+        </div>
+        <div>
+            <label>So CMND</label>
+            <input type="text" th:field="*{soCMND}"/>
+        </div>
+        <div>
+            <label>Email</label>
+            <input type="email" th:field="*{email}"/>
+        </div>
+        <div>
+            <label>Dia chi</label>
+            <input type="text" th:field="*{address}"/>
+        </div>
+        <input type="submit" value="Cap nhat">
+    </form>
+</div>
+
+</body>
+</html>
